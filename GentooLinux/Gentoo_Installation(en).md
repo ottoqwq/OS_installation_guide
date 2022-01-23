@@ -1,6 +1,6 @@
  # Gentoo Linux Installation
 
-![](/home/ottoqwq/DEV/GentooLinux/VqZcHU0i.png)
+![](GentooLinux/blob/main/VqZcHU0i.png)
 
 
 
