@@ -1,6 +1,6 @@
  # Gentoo Linux Installation
 
-![](GentooLinux/blob/main/VqZcHU0i.png)
+![VqZcHU0i](https://user-images.githubusercontent.com/68733617/150661072-625eb9d5-38e2-4dd2-ac6c-046e45d4ce77.png)
 
 
 
