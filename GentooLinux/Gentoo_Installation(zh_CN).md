@@ -1,6 +1,6 @@
 # Gentoo Linux
 
-<img src="blob/main/mudrvB7q.png" style="zoom:67%;" />
+<img src="/GentooLinux/blob/main/mudrvB7q.png" style="zoom:67%;" />
 
 *前排提示：实际安装时可以使用archiso来构建，其自带的genfstab,zsh高亮等也许会对你有用（安装时一样把根目录挂在/mnt/gentoo下）；也可以在livecd上使用systemd-nspawn*
 
@@ -228,7 +228,7 @@ FETCHCOMMAND="curl --retry 3 --connect-timeout 60 --ftp-pasv -Lfo \"\${DISTDIR}/
 RESUMECOMMAND="curl -C - --retry 3 --connect-timeout 60 --ftp-pasv -Lfo \"\${DISTDIR}/\${FILE}\" \"\${URI}\""
 ```
 
-<img src="blob/main/VqZcHU0i.png"  style="zoom:67%;" />
+<img src="GentooLinux/blob/main/VqZcHU0i.png"  style="zoom:67%;" />
 
 [QAQ^]: 这是Otto,他直接复制了别人的conf，现在编译networkmanager编译部过去力～
 
