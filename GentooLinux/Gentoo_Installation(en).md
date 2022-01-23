@@ -8,7 +8,14 @@
 
 To be continue......
 
+## BEFORE YOU START
+Its wise of you to use Arch Linux installation medium to install Gentoo, for its features(such as zsh, vim, etc.)
 
+
+**Besides**, having a live CD is also recommended. For it prowides gui. 
+
+
+you can also **use systemd-nspawn**(enhanced chroot) to boot the system.
 ## Preparing the disks
 
 ## Installing stage3
