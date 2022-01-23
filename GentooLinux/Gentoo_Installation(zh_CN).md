@@ -1,6 +1,6 @@
 # Gentoo Linux
 
-<img src="../mudrvB7q.png" style="zoom:67%;" />
+<img src="blob/main/mudrvB7q.png" style="zoom:67%;" />
 
 *前排提示：实际安装时可以使用archiso来构建，其自带的genfstab,zsh高亮等也许会对你有用（安装时一样把根目录挂在/mnt/gentoo下）；也可以在livecd上使用systemd-nspawn*
 
