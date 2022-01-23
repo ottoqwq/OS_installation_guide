@@ -228,7 +228,7 @@ FETCHCOMMAND="curl --retry 3 --connect-timeout 60 --ftp-pasv -Lfo \"\${DISTDIR}/
 RESUMECOMMAND="curl -C - --retry 3 --connect-timeout 60 --ftp-pasv -Lfo \"\${DISTDIR}/\${FILE}\" \"\${URI}\""
 ```
 
-<img src="../VqZcHU0i.png"  style="zoom:67%;" />
+<img src="blob/main/VqZcHU0i.png"  style="zoom:67%;" />
 
 [QAQ^]: 这是Otto,他直接复制了别人的conf，现在编译networkmanager编译部过去力～
 
