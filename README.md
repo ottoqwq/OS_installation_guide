@@ -1,5 +1,6 @@
 # OS_installation_guide
-Operation Installation guide. Take issue to raise questions
+Operating System Installation guide documentation
+Take issue to raise questions
 
 
 
