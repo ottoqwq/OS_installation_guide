@@ -117,6 +117,7 @@ multilib =>（32和64位）
 no-multilib =>（纯64位）
 
 **警告**
+
 >"把一个系统从no-multilib迁移到multilib需要极其丰富的使用Gentoo的知识并熟悉底层的工具链。这一做法甚至可能导致[Toolchain developers](https://wiki.gentoo.org/wiki/Project:Toolchain) 这令人不寒而栗。不适合内心柔弱之人,而且也超出了本指南的范围。" --Gentoo Wiki
 
 ### init 系统选择
@@ -193,7 +194,7 @@ PKGDIR="/var/cache/binpkgs"
 # Please keep this setting intact when reporting bugs.
 LC_MESSAGES=C
 MAKEOPTS="-j8" #根据自己cpu改
-GENTOO_MIRRORS="https://mirrors.ustc.edu.cn/gentoo/"
+GENTOO_MIRRORS="https://mirrors.tuna.tsinghua.edu.cn/gentoo/"
 EMERGE_DEFAULT_OPTS="--keep-going --with-bdeps=y --autounmask-write=y --quiet-build=y --jobs=2 -l" #可根据个人喜好改
 
 
@@ -263,9 +264,9 @@ RESUMECOMMAND="curl -C - --retry 3 --connect-timeout 60 --ftp-pasv -Lfo \"\${DIS
 
 ​		遇到问题，可以在Gentoo-zh群组咨询：
 
-​		[IRC](https://webchat.freenode.net/?channels=gentoo-zh)和[Telegram](https://t.me/gentoo_zh)
+​		[IRC](https://webchat.freenode.net/?channels=gentoo-zh) 和[Telegram](https://t.me/gentoo_zh)
 
-​		：
+
 
 
 
